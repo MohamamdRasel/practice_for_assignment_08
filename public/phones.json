@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "title": "Flagship Excellence",
+      "brand_name": "Samsung",
+      "phone_name": "Galaxy S21",
+      "price": 899.99,
+      "image": "https://i.ibb.co/q5PG6CC/download.jpg",
+      "description": "Experience the cutting-edge technology with the Samsung Galaxy S21. A flagship phone that delivers exceptional performance and stunning visuals."
+    },
+    {
+      "id": 2,
+      "title": "Power Unleashed",
+      "brand_name": "Apple",
+      "phone_name": "iPhone 13 Pro",
+      "price": 1099.99,
+      "image": "https://i.ibb.co/XyBmdk9/download-1.jpg",
+      "description": "Discover the power of the A15 Bionic chip and the Pro camera system with the iPhone 13 Pro. Capture pro-grade photos and enjoy seamless performance."
+    },
+    {
+        "id": 3,
+      "title": "Photography Master",
+      "brand_name": "Google",
+      "phone_name": "Pixel 6",
+      "price": 799.99,
+      "image": "https://i.ibb.co/mcymS6m/Google.jpg",
+      "description": "Unleash your creativity with the Pixel 6. Its advanced camera system and AI capabilities redefine smartphone photography."
+    },
+    {
+        "id": 4,
+      "title": "Affordable Elegance",
+      "brand_name": "OnePlus",
+      "phone_name": "OnePlus 9",
+      "price": 699.99,
+      "image": "https://i.ibb.co/t3Np8MY/OnePlus.jpg",
+      "description": "Get flagship features at an affordable price with the OnePlus 9. A sleek design coupled with powerful performance."
+    },
+    {
+        "id": 5,
+      "title": "Innovative Design",
+      "brand_name": "Xiaomi",
+      "phone_name": "Mi 11",
+      "price": 799.99,
+      "image": "https://i.ibb.co/Jqc6CT3/Xaomi.jpg",
+      "description": "Experience innovation with the Mi 11. A stunning display, powerful processor, and a camera that captures every moment in detail."
+    },
+    {
+        "id": 6,
+      "title": "Ultimate Gaming Beast",
+      "brand_name": "ASUS",
+      "phone_name": "ROG Phone 6",
+      "price": 1199.99,
+      "image": "https://i.ibb.co/Jt2K2dw/Asus.jpg",
+      "description": "For gamers by gamers, the ROG Phone 6 delivers ultimate gaming performance with a high-refresh-rate display and a powerful processor."
+    },
+    {
+        "id": 7,
+      "title": "Camera Revolution",
+      "brand_name": "Huawei",
+      "phone_name": "P50 Pro",
+      "price": 899.99,
+      "image": "https://i.ibb.co/d4x7Yh9/huwai.jpg",
+      "description": "Embark on a camera revolution with the Huawei P50 Pro. Leica-powered lenses capture details like never before."
+    },
+    {
+        "id": 8,
+      "title": "Sleek and Stylish",
+      "brand_name": "Sony",
+      "phone_name": "Xperia 5 III",
+      "price": 999.99,
+      "image": "https://i.ibb.co/X8thTLh/Sony.jpg",
+      "description": "Elegance meets performance in the Xperia 5 III. A sleek design coupled with top-of-the-line features for a premium experience."
+    },
+    {
+        "id": 9,
+      "title": "Budget Marvel",
+      "brand_name": "Motorola",
+      "phone_name": "Moto G Power (2023)",
+      "price": 299.99,
+      "image": "https://i.ibb.co/xg6bKxK/Motorola.jpg",
+      "description": "Experience long-lasting battery life without breaking the bank with the Moto G Power (2023). A budget marvel with reliable performance."
+    },
+    {
+        "id": 10,
+      "title": "Compact Powerhouse",
+      "brand_name": "Google",
+      "phone_name": "Pixel 5a",
+      "price": 449.99,
+      "image": "https://i.ibb.co/mcymS6m/Google.jpg",
+      "description": "The Pixel 5a combines compact design with powerful features. Capture stunning photos and enjoy a seamless user experience."
+    },
+    {
+        "id": 11,
+      "title": "Premium Performance",
+      "brand_name": "Samsung",
+      "phone_name": "Galaxy Z Fold 3",
+      "price": 1799.99,
+      "image": "https://i.ibb.co/q5PG6CC/download.jpg",
+      "description": "Unfold new possibilities with the Galaxy Z Fold 3. A foldable smartphone that delivers premium performance and a unique user experience."
+    },
+    {
+        "id": 12,
+      "title": "Fashionable Tech",
+      "brand_name": "Apple",
+      "phone_name": "iPhone SE (2023)",
+      "price": 499.99,
+      "image": "https://i.ibb.co/XyBmdk9/download-1.jpg",
+      "description": "The iPhone SE (2023) combines the power of the latest chip with a compact design. Fashionable tech that fits in your pocket."
+    },
+    {
+        "id": 13,
+      "title": "Rugged Adventure",
+      "brand_name": "CAT",
+      "phone_name": "CAT S62 Pro",
+      "price": 699.99,
+      "image": "https://i.ibb.co/xC0ww9g/Cat.jpg",
+      "description": "Built for rugged adventures, the CAT S62 Pro is a durable smartphone that withstands tough conditions. Capture your adventures with confidence."
+    },
+    {
+        "id": 14,
+      "title": "Eco-Friendly Choice",
+      "brand_name": "Fairphone",
+      "phone_name": "Fairphone 4",
+      "price": 549.99,
+      "image": "https://i.ibb.co/gSCv6k7/Fair.jpg",
+      "description": "Make an eco-friendly choice with the Fairphone 4. A modular smartphone that puts sustainability at the forefront without compromising performance."
+    },
+    {
+        "id": 15,
+      "title": "Stylish Innovation",
+      "brand_name": "LG",
+      "phone_name": "LG Velvet 2 Pro",
+      "price": 799.99,
+      "image": "https://i.ibb.co/68zhDGP/LG.jpg",
+      "description": "Experience stylish innovation with the LG Velvet 2 Pro. A sleek design, vibrant display, and innovative features redefine smartphone excellence."
+    }
+  ]
+  
