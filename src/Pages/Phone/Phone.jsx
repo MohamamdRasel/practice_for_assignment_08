@@ -23,7 +23,7 @@ const Phone = () => {
     console.log(phone);
 
     return (
-        <div>
+        <div className="py-10 ">
             <PhoneCard phone={phone}></PhoneCard>
         </div>
     );
